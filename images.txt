@@ -4,4 +4,6 @@
 #支持指定架构
 #--platform linux/amd64 node:22.16-bookworm
 #sonarsource/sonar-scanner-cli
-sonarqube:community
+#sonarqube:community
+postgres:15.15-alpine
+postgres:17.7-alpine
