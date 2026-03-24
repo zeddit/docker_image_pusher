@@ -5,5 +5,8 @@
 #--platform linux/amd64 node:22.16-bookworm
 #sonarsource/sonar-scanner-cli
 #sonarqube:community
-postgres:15.15-alpine
-postgres:17.7-alpine
+#postgres:15.15-alpine
+#postgres:17.7-alpine
+grafana/loki:latest
+grafana/grafana:latest
+minio/minio:RELEASE.2025-01-20T14-49-07Z
